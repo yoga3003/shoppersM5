@@ -11,6 +11,5 @@ public void Testcase1()
 	System.out.println(Name);
 	System.out.println(Name);
 	System.out.println(Name);
-	System.out.println(Name);
 }
 }
